@@ -1,0 +1,16 @@
+.MyProposalsPage {
+    background-color: pink;
+    height: 100%;
+    width: 100%;
+}
+
+.container{
+
+    background-color: purple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+
+}
